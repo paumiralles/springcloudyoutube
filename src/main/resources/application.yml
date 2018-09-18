@@ -1,0 +1,4 @@
+spring.profiles = config-monitor
+spring.cloud.bus.enabled = true
+spring.rabbitmq.host = cat.rmq.cloudamqp.com
+spring.rabbitmq.port = 5672
